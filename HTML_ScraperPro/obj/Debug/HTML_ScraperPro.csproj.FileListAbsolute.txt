@@ -1,0 +1,6 @@
+c:\users\mat\documents\visual studio 2015\Projects\HTML_ScraperPro\HTML_ScraperPro\bin\Debug\HTML_ScraperPro.exe.config
+c:\users\mat\documents\visual studio 2015\Projects\HTML_ScraperPro\HTML_ScraperPro\bin\Debug\HTML_ScraperPro.exe
+c:\users\mat\documents\visual studio 2015\Projects\HTML_ScraperPro\HTML_ScraperPro\bin\Debug\HTML_ScraperPro.pdb
+c:\users\mat\documents\visual studio 2015\Projects\HTML_ScraperPro\HTML_ScraperPro\obj\Debug\HTML_ScraperPro.csprojResolveAssemblyReference.cache
+c:\users\mat\documents\visual studio 2015\Projects\HTML_ScraperPro\HTML_ScraperPro\obj\Debug\HTML_ScraperPro.exe
+c:\users\mat\documents\visual studio 2015\Projects\HTML_ScraperPro\HTML_ScraperPro\obj\Debug\HTML_ScraperPro.pdb
